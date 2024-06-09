@@ -1,2 +1,2 @@
-# VariousScripts
-Various python scripts that were used for automating college and everyday tasks
+# My Utils
+Various python utils used for various daily tasks.
