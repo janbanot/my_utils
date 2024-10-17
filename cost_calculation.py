@@ -90,3 +90,14 @@ if selected_route_obj:
 # selektor daty
 # Wybór tras, prekonfigurowanych, adres, odległość
 # na podstawie tego tworzy data trasa stan licznika przed, po
+
+# uzytkownik sam dodaje trasy
+# pdf zgodny z wzorcem
+# liczba porzadkowa
+# data
+# trasa
+# stan poczatkowy i koncowy
+# cel przejazdu - sam wpisuje, albo wybrać z listy
+# uzytkowni
+# komnetarz
+# rubryczka: od kiedy do kiedy, samoochod
